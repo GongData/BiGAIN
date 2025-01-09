@@ -47,8 +47,9 @@ Execute the `Run_GAN_imputed.py` file, then one folder-"checkpoint_physionet_imp
 
 
 
-# Original Work <br>
-This code was modified and adopted by Luo et al. <br>
-Original Paper title: Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks <br>
+### Original Work <br>
+This code was modified and adopted by Luo et al. from the original paper: *Multivariate Time Series Imputation with Generative Adversarial Networks* <br>
+
 Paper https://papers.nips.cc/paper_files/paper/2018/hash/96b9bff013acedfb1d140579e2fbeb63-Abstract.html <br>
+Github https://github.com/Luoyonghong/Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks <br>
 
