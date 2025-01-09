@@ -5,6 +5,8 @@ environment: tensorflow version 1.7 python 2.7
 
 The proposed method is a two-stage method. We first train Bidirectional f-divergence based GAN, then we train the input vector of the generator of GAN. <br>
 
+
+
 ### Physionet Dataset <br>
 
 __Stage1:__ <br>
@@ -42,4 +44,11 @@ __Stage2:__ <br>
 Go to GRUI floder: <br>
 Execute the `Run_GAN_imputed.py` file, then one folder-"checkpoint_physionet_imputed" will be created, go to the "checkpoint_physionet_imputed/30_8_128_64_0.001_400_True_True_True_0.15_0.5" folder, find "result" file, the "result" file stands for the mortality prediction results by The RNN classifier trained on the GAN imputed dataset. The first column is epoch, the second column is accuracy and the last column is the AUC score. <br>
 
+
+
+
+# Original Work <br>
+This code was modified and adopted by Luo et al. <br>
+Original Paper title: Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks <br>
+Paper https://papers.nips.cc/paper_files/paper/2018/hash/96b9bff013acedfb1d140579e2fbeb63-Abstract.html <br>
 
