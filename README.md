@@ -3,8 +3,7 @@ Paper : Bidirectional f-Divergence-Based Deep Generative Method for
 Imputing Missing Values in Time Series Data  <br>
 environment: tensorflow version 1.7 python 2.7
 
-The proposed method is a two-stage method. We first train Bidirectional f-divergence based GAN, then we train the input vector of the generator of GAN. <br>
-
+(https://www.mdpi.com/2571-905X/8/1/7)
 
 
 ### Physionet Dataset <br>
